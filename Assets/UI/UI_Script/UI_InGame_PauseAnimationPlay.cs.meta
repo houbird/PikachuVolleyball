@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b1aed9b3a665b6349aa588def7c403fd
+timeCreated: 1483623358
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - introAnimation: {fileID: 7400000, guid: 7c38c2f355f03784ba9b02cdcc0b2589, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
